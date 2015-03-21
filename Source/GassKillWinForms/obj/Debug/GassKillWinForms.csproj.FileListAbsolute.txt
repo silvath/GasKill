@@ -1,0 +1,11 @@
+C:\VSO\GasKill\Source\GassKillWinForms\bin\Debug\GassKillWinForms.exe.config
+C:\VSO\GasKill\Source\GassKillWinForms\bin\Debug\GassKillWinForms.exe
+C:\VSO\GasKill\Source\GassKillWinForms\bin\Debug\GassKillWinForms.pdb
+C:\VSO\GasKill\Source\GassKillWinForms\bin\Debug\GassKillCoreWinForms.dll
+C:\VSO\GasKill\Source\GassKillWinForms\bin\Debug\GassKillCoreWinForms.pdb
+C:\VSO\GasKill\Source\GassKillWinForms\obj\Debug\GassKillWinForms.csprojResolveAssemblyReference.cache
+C:\VSO\GasKill\Source\GassKillWinForms\obj\Debug\GassKillWinForms.Form1.resources
+C:\VSO\GasKill\Source\GassKillWinForms\obj\Debug\GassKillWinForms.Properties.Resources.resources
+C:\VSO\GasKill\Source\GassKillWinForms\obj\Debug\GassKillWinForms.csproj.GenerateResource.Cache
+C:\VSO\GasKill\Source\GassKillWinForms\obj\Debug\GassKillWinForms.exe
+C:\VSO\GasKill\Source\GassKillWinForms\obj\Debug\GassKillWinForms.pdb

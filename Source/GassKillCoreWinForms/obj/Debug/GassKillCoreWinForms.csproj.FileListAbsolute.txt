@@ -1,0 +1,5 @@
+C:\VSO\GasKill\Source\GassKillCoreWinForms\bin\Debug\GassKillCoreWinForms.dll
+C:\VSO\GasKill\Source\GassKillCoreWinForms\bin\Debug\GassKillCoreWinForms.pdb
+C:\VSO\GasKill\Source\GassKillCoreWinForms\obj\Debug\GassKillCoreWinForms.csprojResolveAssemblyReference.cache
+C:\VSO\GasKill\Source\GassKillCoreWinForms\obj\Debug\GassKillCoreWinForms.dll
+C:\VSO\GasKill\Source\GassKillCoreWinForms\obj\Debug\GassKillCoreWinForms.pdb
